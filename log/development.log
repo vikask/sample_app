@@ -203,3 +203,10 @@ Served asset /jquery_ujs.js - 304 Not Modified (0ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-01-17 11:55:49 +0530
 Served asset /application.js - 304 Not Modified (1ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2013-01-17 13:08:36 +0530
+Connecting to database specified by database.yml
+Served asset /application.css - 200 OK (3ms)
+Connecting to database specified by database.yml
