@@ -1,10 +1,23 @@
 <% provide(:title, 'Help') %>
 <h1>Help</h1>
+<h2>Install</h2>
 <p>
-  Get help on the Ruby on Rails Tutorial at the
-  <a href="http://railstutorial.org/help">Rails Tutorial help page</a>.
-  To get help on this sample app, see the
-  <a href="http://railstutorial.org/book">Rails Tutorial book</a>.
+  gem install rspec-rails
 </p>
+<p>
+  This installs the following gems:
+  <ul>
+    <li>rspec-core</li>
+    <li> rspec-expectations</li>
+    <li>rspec-mocks</li>
+    <li>rspec-rails</li>
+  </ul>
+</p>
+   <h2>Configure</h2>
+   <p>Add rspec-rails to the :test and :development groups in the Gemfile:   </p>
+    <p> group :test, :development do</p>
+    <p> gem "rspec-rails", "~> 2.0" </p>
+    <p> end </p>
+<p>Now you can run:  </p>
 
-
+<p>rails generate rspec:install</p>
