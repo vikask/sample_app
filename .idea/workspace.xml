@@ -94,7 +94,7 @@
       <file leaf-file-name="users_helper.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/helpers/users_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="4" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0660066">
+            <state line="7" column="18" selection-start="256" selection-end="256" vertical-scroll-proportion="0.1540154">
               <folding />
             </state>
           </provider>
@@ -885,7 +885,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/helpers/users_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0660066">
+        <state line="7" column="18" selection-start="256" selection-end="256" vertical-scroll-proportion="0.1540154">
           <folding />
         </state>
       </provider>
