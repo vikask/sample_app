@@ -85,7 +85,7 @@
       <file leaf-file-name="utilities.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/support/utilities.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="15" selection-start="320" selection-end="328" vertical-scroll-proportion="0.3740374">
+            <state line="21" column="32" selection-start="466" selection-end="466" vertical-scroll-proportion="0.4620462">
               <folding />
             </state>
           </provider>
@@ -863,7 +863,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/support/utilities.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="15" selection-start="320" selection-end="328" vertical-scroll-proportion="0.3740374">
+        <state line="21" column="32" selection-start="466" selection-end="466" vertical-scroll-proportion="0.4620462">
           <folding />
         </state>
       </provider>
