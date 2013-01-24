@@ -5,7 +5,6 @@ module SessionsHelper
   end
 
   def signed_in?
-    Rails.logger.info"*******************Signed in #{current_user}"
     !current_user.nil?
   end
 
@@ -20,6 +19,5 @@ module SessionsHelper
 
   def current_user
     @current_user ||= User.find_by_remember_token(cookies[:remember_token])
-    #Rails.logger.info"**********CurrentUser#{@current_user}*********"
   end
 end
